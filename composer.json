@@ -1,0 +1,10 @@
+{
+  "require": {
+    "ext-http": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Arquitetura\\": "src/"
+    }
+  }
+}
